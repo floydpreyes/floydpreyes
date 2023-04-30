@@ -1,6 +1,6 @@
 ### Hi there 👋
-* 🔭 I’m currently working on Azure DevOps Pipelines and Terraform Landing zone deployments
-* 🌱 I’m currently learning .net core and azure pipelines deployment tasks
+* 🔭 I’m currently working on a GitLab to Azure DevOps migration project.
+* 🌱 I’m currently learning python, node and .net
 
 You can reach me at https://www.linkedin.com/in/floydpreyes/
 <!--
