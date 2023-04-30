@@ -1,6 +1,6 @@
 ### Hi there 👋
 * 🔭 I’m currently working on a GitLab to Azure DevOps migration project.
-* 🌱 I’m currently learning python, node and .net
+* 🌱
 
 You can reach me at https://www.linkedin.com/in/floydpreyes/
 <!--
