@@ -1,8 +1,10 @@
 ### Hi there 👋
 * ⚡ I'm a DevOps Engineer based in Heidelberg, Australia.
-* 🔭 I’m currently working on a GitLab to Azure DevOps migration project.
 
-You can reach me at https://www.linkedin.com/in/floydpreyes/
+Projects:
+Gitlab to Azure DevOps
+AKS Terraform Deployment
+
 <!--
 **floydpreyes/floydpreyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
