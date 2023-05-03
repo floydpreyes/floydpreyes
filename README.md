@@ -2,7 +2,7 @@
 * ⚡ I'm a DevOps Engineer based in Heidelberg, Australia.
 
 Projects:
-Gitlab to Azure DevOps
+Gitlab to Azure DevOps migration
 
 
 <!--
